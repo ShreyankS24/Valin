@@ -3,9 +3,8 @@
 A fun and interactive React project to bring a smile to your special someone's face this Valentine's Day! 😊❤️
 
 ## 🎉 Create Your Own Valentine Page
-
-🔗 **[Create Here](https://i143.xyz/create)**  
-🌐 **Live Demo:** [WillUBMyGF.netlify.app](https://WillUBMyGF.netlify.app)
+ 
+🌐 **Live Demo:** [https://will-you-b-my-valentine.netlify.app/](https://will-you-b-my-valentine.netlify.app/)
 
 ---
 
@@ -94,12 +93,6 @@ or using PNPM:
 ```bash
 pnpm run deploy
 ```
-
----
-
-## 🖼️ Preview
-
-*(Add your demo GIF here!)*
 
 ---
 
